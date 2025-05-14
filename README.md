@@ -28,6 +28,8 @@ HTML5
 
 CSS3
 
+Vanilla JavaScript
+
 
 Sound files (.mp3) for different tones
 
