@@ -9,9 +9,6 @@ A simple and interactive virtual piano built using HTML, CSS, and JavaScript. Pl
 - Multiple sound modes (grand, electric, synth)
 - Clean and responsive UI
 
-## 📸 Preview
-
-![JS Piano Screenshot](./preview.png) <!-- Replace or remove if not needed -->
 
 ## 🚀 How to Use
 
@@ -31,7 +28,6 @@ HTML5
 
 CSS3
 
-Vanilla JavaScript
 
 Sound files (.mp3) for different tones
 
@@ -39,20 +35,7 @@ Sound files (.mp3) for different tones
 Check it out live on GitHub Pages:
 JS Piano Live
 
-📁 Folder Structure
-pgsql
-Copy
-Edit
-JS-piano/
-│
-├── sounds/
-│   ├── grand/
-│   ├── electric/
-│   └── synth/
-│
-├── index.html
-├── style.css
-└── README.md
+
 🙌 Credits
 Inspired by basic piano UIs and keyboard-mapped musical web apps.
 
